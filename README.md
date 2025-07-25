@@ -31,7 +31,8 @@ Dự án này xây dựng một mô hình Machine Learning có khả năng tự 
 ## Kết quả & Phân tích
 Với mô hình Naive Bayes ban đầu, độ chính xác tổng thể đạt **64.75%**.
 
-*(Chèn ảnh của bảng classification_report vào đây)*
+<img width="715" height="615" alt="image" src="https://github.com/user-attachments/assets/6404e38c-60e8-4149-91a3-5c839e92aab9" />
+
 
 **Phân tích:**
 - Mô hình hoạt động tốt với các lớp có dữ liệu dồi dào và đặc trưng như `Thể thao`, `Thế giới`.
