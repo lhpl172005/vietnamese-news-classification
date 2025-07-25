@@ -26,7 +26,7 @@ Dự án này xây dựng một mô hình Machine Learning có khả năng tự 
 Do giới hạn về kích thước, file dữ liệu không được bao gồm trong repository này. Bạn có thể tải bộ dữ liệu được sử dụng trong dự án tại đây:
 
 * **Nguồn:** Kaggle
-* **Link tải:** [Vietnamese News Dataset](https://www.kaggle.com/datasets/sarahhimeko/vietnamese-online-news-csv-dataset) *(<-- Thay bằng link thật của bạn)*
+* **Link tải:** [Vietnamese News Dataset](https://www.kaggle.com/datasets/sarahhimeko/vietnamese-online-news-csv-dataset)
 
 **Hướng dẫn:** Tải file Fixed_news_dataset.csv về sau đó lưu trong folder dự án.
 
