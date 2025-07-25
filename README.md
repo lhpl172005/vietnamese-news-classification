@@ -21,6 +21,15 @@ Dự án này xây dựng một mô hình Machine Learning có khả năng tự 
 4.  Tải dữ liệu từ [Link tới Kaggle hoặc nguồn dữ liệu] và đặt vào thư mục `data/`.
 5.  Mở và chạy file notebook trong thư mục `notebooks/`.
 
+## Dữ liệu (Data)
+
+Do giới hạn về kích thước, file dữ liệu không được bao gồm trong repository này. Bạn có thể tải bộ dữ liệu được sử dụng trong dự án tại đây:
+
+* **Nguồn:** Kaggle
+* **Link tải:** [Vietnamese News Dataset](https://www.kaggle.com/datasets/...) *(<-- Thay bằng link thật của bạn)*
+
+**Hướng dẫn:** Sau khi tải về, hãy giải nén và đặt file `Fixed_news_dataset.csv` vào trong một thư mục có tên là `data/` trong thư mục gốc của dự án.
+
 ## Quy trình Thực hiện
 1.  **Thu thập & Khám phá Dữ liệu:** Sử dụng bộ dữ liệu tin tức từ...
 2.  **Tiền xử lý:** Làm sạch văn bản, chuẩn hóa Unicode, tách từ tiếng Việt bằng `pyvi`.
