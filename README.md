@@ -18,8 +18,8 @@ Dự án này xây dựng một mô hình Machine Learning có khả năng tự 
     ```bash
     pip install -r requirements.txt
     ```
-4.  Tải dữ liệu từ [Link tới Kaggle hoặc nguồn dữ liệu] và đặt vào thư mục `data/`.
-5.  Mở và chạy file notebook trong thư mục `notebooks/`.
+4.  Tải dữ liệu từ link Kaggle phía dưới và lưu vào folder gốc của dự án.
+5.  Chạy file edit.ipynb
 
 ## Dữ liệu (Data)
 
