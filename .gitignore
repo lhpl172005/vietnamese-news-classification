@@ -1,0 +1,21 @@
+# Môi trường ảo
+# Bỏ qua toàn bộ thư mục venv
+/venv/
+
+# Thư mục cache của Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# File tạm của Jupyter Notebook
+.ipynb_checkpoints
+
+# File hệ thống của các hệ điều hành
+.DS_Store
+Thumbs.db
+
+# Dữ liệu
+# Không đưa các file dữ liệu lớn lên Git.
+# Thay vào đó, hãy dẫn link trong file README.md.
+Fixed_news_dataset.csv
